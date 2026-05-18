@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "mode": "structured",
+  "title": "Image Test",
+  "folderName": "day21-imgtest",
+  "content": "top line\\n[[img:1]]\\nmid line\\n[[img:2]]\\nbottom line . hi4tg",
+  "images": [
+    {
+      "id": 1,
+      "mimeType": "image/png",
+      "dataBase64": "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO5T7isAAAAASUVORK5CYII="
+    },
+    {
+      "id": 2,
+      "mimeType": "image/png",
+      "dataBase64": "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO5T7isAAAAASUVORK5CYII="
+    }
+  ],
+  "updatedAt": "2026-02-17T06:46:25.242Z"
+}
